@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\frameCapture",
+    "\\frameCapture\\frameCapture"
   ],
-  "SelectedNode": "\\C:\\Users\\ctoen\\Source\\Repos\\Software",
+  "SelectedNode": "\\frameCapture\\frameCapture\\validPhotoName.cpp",
   "PreviewInSolutionExplorer": false
 }
